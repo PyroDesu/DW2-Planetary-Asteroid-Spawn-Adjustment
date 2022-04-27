@@ -1,0 +1,92 @@
+OrbType:
+
+    - update:
+        OrbTypeId: 7 #Continental
+        AsteroidFieldProbability: 0
+
+    - update:
+        OrbTypeId: 8 #Marshy Swamp
+        AsteroidFieldProbability: 0
+
+    - update:
+        OrbTypeId: 9 #Ocean
+        AsteroidFieldProbability: 0
+
+    - update:
+        OrbTypeId: 10 #Sandy Desert
+        AsteroidFieldProbability: 0
+
+    - update:
+        OrbTypeId: 11 #Ice
+        AsteroidFieldProbability: 0
+
+    - update:
+        OrbTypeId: 12 #Volcanic
+        AsteroidFieldProbability: 0
+
+    - update:
+        OrbTypeId: 13 #Rocky Silicon
+        AsteroidFieldProbability: 0
+
+    - update:
+        OrbTypeId: 14 #Gas Giant
+        AsteroidFieldProbability: 0.7
+        RingsProbability: 0.7
+
+    - update:
+        OrbTypeId: 15 #Frozen Gas Giant
+        Name: Ice Giant
+        AsteroidFieldProbability: 0.5
+        RingsProbability: 0.3
+
+    - update:
+        OrbTypeId: 17 #Forest
+        AsteroidFieldProbability: 0
+
+    - update:
+        OrbTypeId: 18 #Grasslands
+        AsteroidFieldProbability: 0
+
+    - update:
+        OrbTypeId: 19 #Rocky Desert
+        AsteroidFieldProbability: 0
+
+    - update:
+        OrbTypeId: 20 #Desert Savanna
+        AsteroidFieldProbability: 0
+
+    - update:
+        OrbTypeId: 21 #Ice Tundra
+        AsteroidFieldProbability: 0
+
+    - update:
+        OrbTypeId: 22 #Frozen Ice
+        AsteroidFieldProbability: 0
+
+    - update:
+        OrbTypeId: 23 #Deep Ocean
+        AsteroidFieldProbability: 0
+
+    - update:
+        OrbTypeId: 24 #Brown Dwarf
+        AsteroidFieldProbability: 0.9
+
+    - update:
+        OrbTypeId: 25 #Rocky Metallic
+        AsteroidFieldProbability: 0
+
+    - update:
+        OrbTypeId: 26 #Rocky Ice
+        AsteroidFieldProbability: 0
+
+    - update:
+        OrbTypeId: 27 #Mangrove Forest
+        AsteroidFieldProbability: 0
+
+    - update:
+        OrbTypeId: 29 #Carbonaceous
+        AsteroidFieldProbability: 0
+
+    - update:
+        OrbTypeId: 30 #Sulfur Volcanic
+        AsteroidFieldProbability: 0

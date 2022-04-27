@@ -1,0 +1,1 @@
+This mod increases the probability of asteroid fields spawning around jovian (gas/ice giant and brown drawf) planets, and removes the possibility of asteroid fields spawning around terrestrial planets. Also minor adjustment to ring chances and renaming of "Frozen Gas Giant" to "Ice Giant".

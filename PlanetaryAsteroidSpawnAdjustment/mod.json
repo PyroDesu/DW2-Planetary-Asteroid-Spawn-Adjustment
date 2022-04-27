@@ -1,0 +1,9 @@
+{
+  "name": "PlanetaryAsteroidSpawnAdjustment",
+  "displayName": "Planetary Asteroid Spawn Adjustment",
+  "version": "1.0.0",
+  "patchedData": "data",
+  "dependencies": []
+}
+
+#author: PyroDesu
